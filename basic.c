@@ -5,5 +5,5 @@ void main() {
     printf("\n Sum of two given value: ");
     a = 5;
     b = 5;
-    printf("Sum = %d",a+b);
+    printf("subtraction  = %d",a-b);
 }
