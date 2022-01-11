@@ -3,7 +3,7 @@ void main() {
     int a,b;
     printf("\n Hello Mars..");
     printf("\n Sum of two given value: ");
-    a = 10;
+    a = 55;
     b = 5;
     printf("Sum = %d",a+b);
 }
